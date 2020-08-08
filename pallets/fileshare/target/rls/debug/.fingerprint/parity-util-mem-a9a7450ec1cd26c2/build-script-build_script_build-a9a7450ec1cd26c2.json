@@ -1,0 +1,1 @@
+{"rustc":10461004854123552879,"features":"[\"parking_lot\", \"primitive-types\", \"std\"]","target":10429514197457385088,"profile":9935990280773120926,"path":2757683436457158001,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/parity-util-mem-a9a7450ec1cd26c2/dep-build-script-build_script_build-a9a7450ec1cd26c2"}}],"rustflags":[],"metadata":8042808314384185269}

@@ -1,0 +1,9 @@
+/home/ipfs/substrate-node-template/pallets/fileshare/target/rls/debug/deps/libparity_scale_codec_derive-18cb8ba58b6f3f23.so: /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/lib.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/decode.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/encode.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/utils.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/trait_bounds.rs
+
+/home/ipfs/substrate-node-template/pallets/fileshare/target/rls/debug/deps/parity_scale_codec_derive-18cb8ba58b6f3f23.d: /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/lib.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/decode.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/encode.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/utils.rs /home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/trait_bounds.rs
+
+/home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/lib.rs:
+/home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/decode.rs:
+/home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/encode.rs:
+/home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/utils.rs:
+/home/ipfs/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/parity-scale-codec-derive-1.2.0/src/trait_bounds.rs:
