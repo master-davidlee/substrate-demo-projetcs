@@ -2,5 +2,6 @@
 
 
 
-#Goal
-this project is for file share in the chain and by using ipfs we can get what we want everywhere
+There are two demo projects    
+- using substrate and ipfs to share files    
+- using substrate to start a vote on chain
